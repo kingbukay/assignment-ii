@@ -1,0 +1,13 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+
+# Environment variables and credentials
+.env
+utils/demowebshop.json
+utils/registeredUser.json
